@@ -1,4 +1,4 @@
-# hello-word
+# hello-world
 Practicanding
 
 bueno, de abogado "posgraduado" a estudiante de programación en JavaScript!
